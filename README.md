@@ -1,6 +1,6 @@
-<h1>Olá, Mundo!<br><h2>Pode me chamar de <a href="https://www.linkedin.com/in/alexandreflorenco/" target="_blank">Alex</a>!</h2</h1>
+<h1> Olá, Mundo!</h1>
 
-<p>Graduando em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).</p>
+## Pode me chamar de <a href="https://www.linkedin.com/in/alexandreflorenco/" target="_blank">Alex</a>!<br>Ciência da Computação - IFCE
 
   <div align="left">
   <a href="https://github.com/AlexFlorenco">
