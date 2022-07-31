@@ -1,15 +1,19 @@
-<h1> Olá, Mundo!</h1>
+<h1> Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br></h1>
 
-## Pode me chamar de <a href="https://www.linkedin.com/in/alexandreflorenco/" target="_blank">Alex</a>!<br>Ciência da Computação - IFCE
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&color=E5E5E5&multiline=true&height=75&lines=const+name+%3D+%22Alexandre+Floren%C3%A7o%22;let+course+%3D+%22Computer+Science%22;let+location+%3D+%22Fortaleza-CE%22)](https://git.io/typing-svg)
 
- <div align="left">
-  <a href="https://github.com/AlexFlorenco">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexflorenco&layout=compact&langs_count=8&theme=dark"/>
+[![Linkedin: Alex](https://img.shields.io/badge/-Alex-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandreflorenco/)](https://www.linkedin.com/in/alexandreflorenco/) &nbsp;
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=alexflorenco&color=lightgrey">
+
+<div>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexflorenco&layout=compact&langs_count=8&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+
+<div align="left" style="display: inline_block">
+ <img align="center" alt="Alex-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Alex-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Alex-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Alex-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Alex-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
+
