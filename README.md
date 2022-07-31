@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&color=E5E5E5&multiline=true&height=75&lines=const+name+%3D+%22Alexandre+Floren%C3%A7o%22;let+course+%3D+%22Computer+Science%22;let+location+%3D+%22Fortaleza-CE%22)](https://git.io/typing-svg)
 
-[![Linkedin: Alex](https://img.shields.io/badge/-Alex-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandreflorenco/)](https://www.linkedin.com/in/alexandreflorenco/) &nbsp;
+[![Linkedin: Alex](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandreflorenco/)](https://www.linkedin.com/in/alexandreflorenco/) &nbsp;
+[![Instagram: Alex](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alex.florenco/)](https://www.instagram.com/alex.florenco/) &nbsp;
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=alexflorenco&color=lightgrey">
 
 <br><br><br>
