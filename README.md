@@ -7,7 +7,7 @@
 [![Linkedin: Alex](https://img.shields.io/badge/-Alex-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandreflorenco/)](https://www.linkedin.com/in/alexandreflorenco/) &nbsp;
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=alexflorenco&color=lightgrey">
 
-<br><br>
+<br><br><br>
 <div align="right">
  <img align="center" alt="Alex-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Alex-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
